@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/bajankristof/nedb-promises#readme",
   "dependencies": {
-    "nedb": "^1.8.0"
+    "nedb": "github:doalier/nedb"
   },
   "devDependencies": {
     "chai": "^4.2.0",
